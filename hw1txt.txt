@@ -1,1 +1,3 @@
-this is a txt file 
+this is a txt file
+
+i change  this file because hw1 question 3 ask me to do this  
